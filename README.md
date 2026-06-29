@@ -31,8 +31,6 @@ DSA repository
 15.Max Sum Subarray
 
 16.Longest even odd subarray
-# STRINGS
-1. Frequencies of letters(lower case , outputs sorted order)
 
 17.Majority Element(Moore's Voting Algo)
 18.Minimum Group Flips.
