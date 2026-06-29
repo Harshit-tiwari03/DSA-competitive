@@ -2,6 +2,7 @@
 DSA repository
 
 # ARRAYS
+
 1.Largest element in an array
 
 2.Second largest element in an array
@@ -33,4 +34,8 @@ DSA repository
 16.Longest even odd subarray
 
 17.Majority Element(Moore's Voting Algo)
+
 18.Minimum Group Flips.
+
+# STRINGS 
+1. Frequencies of letters(lowercase , sorted order )
